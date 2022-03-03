@@ -23,7 +23,4 @@ Down below are some screenshots of certain api GET routes for the user.
 
 
 ## 🔗 Demo
-
-https://user-images.githubusercontent.com/95650946/152098771-ca17abdb-31d3-4dc3-b8af-e0270ef471e0.mp4
-
-https://user-images.githubusercontent.com/95650946/152098847-ef16b135-3d30-466c-9e63-2b1f4be6f785.mp4
+My record is not Working. Having issues.
